@@ -11,3 +11,4 @@ This project contains the following dependencies:
 ### lint-staged
 ### babel-plugin-root-import
 ### react-app-rewired
+### styled-components
